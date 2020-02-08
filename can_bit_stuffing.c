@@ -1,3 +1,4 @@
+/* adds 0 after five 1s and 1 after five 0s including stuff bit*/ 
 #include<stdio.h>
 #include<string.h>
 
