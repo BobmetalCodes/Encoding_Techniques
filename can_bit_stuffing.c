@@ -1,4 +1,3 @@
-/* to be done*/
 #include<stdio.h>
 #include<string.h>
 
