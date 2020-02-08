@@ -3,7 +3,7 @@
 #include<string.h>
 
 int main(){
-	int str1[100],str2[100],n=16,i=0,j=0,count=1;	//count start from 1 because logic
+	int str1[100],n=16,i=0,j=0,count=1;	//count start from 1 because logic
 	printf("Enter the input bit stream one by one:\n");
 	
 	for(i=0;i<n;i++)
